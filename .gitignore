@@ -176,3 +176,14 @@ i.DS_Store
 2_preference_alignment/notebooks/results_trl-lib/
 config.yaml
 2_preference_alignment/notebooks/SmolLM2-FT-ORPO-trl-lib/
+2_preference_alignment/notebooks/SmolLM2-FT-ORPO-argilla/
+2_preference_alignment/notebooks/SmolLM2-FT-ORPO-mlabonne/
+2_preference_alignment/notebooks/results_argilla/
+2_preference_alignment/notebooks/results_mlabonne/
+3_parameter_efficient_finetuning/notebooks/SmolLM2-FT-MyDataset/
+3_parameter_efficient_finetuning/notebooks/SmolLM2-FT-smoltalk3e/
+3_parameter_efficient_finetuning/notebooks/processed_chat_template_dataset/
+2_preference_alignment/notebooks/orpo_finetuning_example_ mlabonne.ipynb
+
+
+
